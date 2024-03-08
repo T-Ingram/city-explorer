@@ -5,7 +5,7 @@
 
 ## Overview
 
-A geographical city explorer that allows users to look up cities learn their coordinates as well as a map of the specific area. 
+A geographical city explorer that allows users to look up cities learn their coordinates as well as a map of the specific area.
 
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
@@ -95,3 +95,53 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Credit and Collaboration
 
 [gitignore.io](https://www.toptal.com/developers/gitignore/)
+
+### Time To Complete Tasks
+
+------------------------------------------------------
+
+Name of feature: Set up your React repository & API keys.
+
+Estimate of time needed to complete: 4
+
+Start time: 6:30
+
+Finish time: 12:00
+
+Actual time needed to complete: 5.5 hrs
+
+------------------------------------------------------
+
+Name of feature: Locations: As a user of City Explorer, I want to enter the name of a location so that I can see the exact latitude and longitude of that location.
+
+Estimate of time needed to complete: 2
+
+Start time: 8:30
+
+Finish time: 11:00
+
+Actual time needed to complete: 2.5 hrs
+
+------------------------------------------------------
+
+Name of feature: Locations: Map: As a user, I want to see a map of the city so that I can see the layout of the area I want to explore.
+
+Estimate of time needed to complete: 2
+
+Start time: 6:30
+
+Finish time: 8:00
+
+Actual time needed to complete: 1.5 hrs
+
+------------------------------------------------------
+
+Name of feature: Errors: As a user, I want clear messages if something goes wrong so I know if I need to make any changes or try again in a different manner.
+
+Estimate of time needed to complete: 2
+
+Start time: 8:00
+
+Finish time: 9:30
+
+Actual time needed to complete: 1.5 hrs
