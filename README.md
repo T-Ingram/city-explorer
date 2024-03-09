@@ -95,7 +95,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Web Request-Response Cycle
 
-(![Web Request-Response Cycle Diagram](image.png))
+![Web Request-Response Cycle Diagram](image.png)
 
 ### Time To Complete Tasks
 
