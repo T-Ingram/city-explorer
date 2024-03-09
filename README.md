@@ -96,6 +96,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 [gitignore.io](https://www.toptal.com/developers/gitignore/)
 
+### Web Request-Response Cycle
+
+
+
 ### Time To Complete Tasks
 
 ------------------------------------------------------
