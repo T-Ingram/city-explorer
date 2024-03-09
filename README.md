@@ -19,7 +19,8 @@ A geographical city explorer that allows users to look up cities learn their coo
 01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
 
 ## Credit and Collaborations
-<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
+
+[gitignore.io](https://www.toptal.com/developers/gitignore/)
 
 # Getting Started with Create React App
 
@@ -91,10 +92,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-### Credit and Collaboration
-
-[gitignore.io](https://www.toptal.com/developers/gitignore/)
 
 ### Web Request-Response Cycle
 
