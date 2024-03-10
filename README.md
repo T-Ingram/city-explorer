@@ -24,7 +24,7 @@ A geographical city explorer that allows users to look up cities learn their coo
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create Vite App](https://vitejs.dev/guide/).
 
 ## Available Scripts
 
