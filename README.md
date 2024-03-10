@@ -22,7 +22,7 @@ A geographical city explorer that allows users to look up cities learn their coo
 
 [gitignore.io](https://www.toptal.com/developers/gitignore/)
 
-# Getting Started with Create React App
+# Getting Started with Create Vite App
 
 This project was bootstrapped with [Create Vite App](https://vitejs.dev/guide/).
 
